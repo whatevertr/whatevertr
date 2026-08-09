@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Thainá Ramos — process engineering · data · human-AI collaboration"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner_nud_noite.svg">
+    <img alt="NUD by Whatevertr — Thainá Ramos · Process Engineer · Constellation Method" src="assets/banner_nud_dia.svg" width="100%">
+  </picture>
 </p>
 
-```console
+```
 whatevertr@github:~$ whoami
 name        Thainá Ramos
 function    Process Engineer · Continuous Improvement
@@ -13,7 +16,7 @@ status      building in public · field notes dated & versioned
 
 whatevertr@github:~$ cat method.json
 {
-  "roles":      ["author", "chronicler", "builder", "judge", "poc-runner"],
+  "roles":      ["author", "thinker", "manager", "worker", "poc-runner"],
   "rules":      ["never overwrite — version", "divergence becomes a flag",
                  "closed scope", "the pair is the key",
                  "flag what I cannot verify"],
