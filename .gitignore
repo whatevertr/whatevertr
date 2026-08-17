@@ -1,0 +1,13 @@
+# --- andaime local: instrução para instâncias (repo PÚBLICO, não sobe) ---
+_repo_instrucoes_instancia.md
+
+# --- segredos/credenciais (defensivo) ---
+.env
+.env.*
+*.pem
+*.key
+*credential*
+
+# --- sistema operacional ---
+.DS_Store
+Thumbs.db
