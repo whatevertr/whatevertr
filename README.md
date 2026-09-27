@@ -25,3 +25,7 @@ whatevertr@github:~$ cat method.json
 ```
 
 > 🍷 — the marker for `flag what I cannot verify`: what I notice but cannot confirm.
+
+---
+
+Hi — I'm Thainá, a process engineer, and I build in public here. This profile is the hub for the things I make: some are experiments, some are developments I take further, and some are tools I actually built for my real-life work — both to make art and to do process and continuous-improvement work. I put it all out in the open for two reasons: to document how I'm learning and evolving, and so it can stand as a portfolio for what comes next. Not everything here is polished or finished — I'd rather show the work as it grows than wait for it to be perfect.
